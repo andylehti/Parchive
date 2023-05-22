@@ -43,6 +43,8 @@ This License shall be governed by the laws of the jurisdiction in which the Lice
 
 No entity within the defined arrangement (those entities that exceed the revenue stipulation as stated in Clause 3) is permitted to sublicense this Software. Individuals earning over $350,000 USD per annum from all sources are not allowed to use this Software for commercial purposes without obtaining a separate license from the Licensor. Personal use is exempted from this condition.
 
+Good morrow to you as well. It appears you're looking for a license enhancement. Below is an adaptation of your requirements into more formal language. Please remember that legal documents should always be reviewed by a legal professional before implementation.
+
 **11. Patent Rights**
 
 The Licensor retains exclusive rights to patent any aspect of this Software, including its underlying concepts, designs, and protocols. Any developments that echo the original design, concepts, or protocols of this Software, even if differently implemented, will be considered as infringing upon these rights.
@@ -50,3 +52,27 @@ The Licensor retains exclusive rights to patent any aspect of this Software, inc
 **12. Irrevocability and Non-Patentability**
 
 Once this Software has been licensed under PRLv2, the license cannot be revoked by any party. Furthermore, Licensees are prohibited from patenting any designs, concepts, or protocols derived from this Software. Any attempts to do so shall be deemed null and void.
+
+**OUR SOFTWARE LICENSE AGREEMENT**
+
+**1. **Repository/Software Name Usage:**
+Unless expressly permitted by the owner, no entity or individual may use the name of the repository/software, its logo(s), or any other copyrighted material related to it. The usage rights apply strictly to the codebase of the software and the repository in which it is hosted.
+
+**2. **Commercial Usage:**
+Commercial usage of the repository/software is permitted, provided that the net profits of the entity or individual utilizing it do not exceed a predetermined threshold, as defined by the owner. Entities or individuals whose net profits exceed the threshold may be required to seek a different form of license, negotiate terms with the owner, or cease usage of the software.
+
+3. **Open Research Encouragement:**
+4. All users are encouraged to conduct open research with the software. It is intended that this software contribute to the broader knowledge base and development community. Research findings should ideally be shared freely to promote innovation and advancement.
+
+4. **Fair Use and Respect:**
+All users should ensure their usage of the software is fair and respectful towards others. The software must not be used to cause harm, spread misinformation, or violate any laws or regulations.
+
+5. **Default to Creative Commons Attribution-ShareAlike:**
+In the event that any aspect of this license agreement does not provide explicit guidance, the matter shall be defaulted to the terms stipulated by the Creative Commons Attribution-ShareAlike (CC BY-SA) license. This is to ensure broad permissibility of use while maintaining the need for attribution and the spread of knowledge in a fair and equitable manner.
+
+6. **Termination:**
+The license for the software is effective until terminated by the owner or user. Upon termination, the user must cease all use of the software and delete all copies.
+
+7. **Changes to License:**
+8. The owner reserves the right to make changes to this license at any time, and users are expected to review the license regularly to ensure compliance.
+
